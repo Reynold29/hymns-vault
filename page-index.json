@@ -1,0 +1,43 @@
+{
+ "generatedAt": "2026-11-19T15:31:06.206Z",
+ "books": {
+  "Hymn": {
+   "1": {
+    "pages": [
+     "page1.jpg"
+    ],
+    "coverage": 0.853
+   },
+   "2": {
+    "pages": [
+     "page1.jpg"
+    ],
+    "coverage": 0.881
+   },
+   "3": {
+    "pages": [
+     "page2.jpg"
+    ],
+    "coverage": 0.789
+   },
+   "4": {
+    "pages": [
+     "page2.jpg"
+    ],
+    "coverage": 0.92
+   },
+   "5": {
+    "pages": [
+     "page3.jpg"
+    ],
+    "coverage": 0.865
+   },
+   "6": {
+    "pages": [
+     "page3.jpg"
+    ],
+    "coverage": 0.823
+   }
+  }
+ }
+}
